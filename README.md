@@ -26,7 +26,7 @@ gaitober" => "gato"
 
 Extra
 ---
-- Um botão que copia o texto criptografado/descriptografado para a área de transferência, ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos. 
+- Um botão que copia o texto criptografado/descriptografado para a área de transferência, ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos. .
 
 GitHub Pages
 
