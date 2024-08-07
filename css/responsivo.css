@@ -5,6 +5,7 @@
         max-height: unset;
         display: flex;
         flex-direction: column;
+        overflow: hidden; /* Adicionado */
     }
 
     .texto-pricipal {
@@ -81,6 +82,7 @@
         max-height: unset;
         display: flex;
         flex-direction: column;
+        overflow: hidden; /* Adicionado */
     }
 
     .texto-pricipal {
