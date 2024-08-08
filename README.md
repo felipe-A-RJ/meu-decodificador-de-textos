@@ -31,3 +31,7 @@ Extra
 GitHub Pages
 
 --> https://felipe-a-rj.github.io/meu-decodificador-de-textos/
+
+<div align="center">
+<img src="https://github.com/felipe-A-RJ/meu-decodificador-de-textos/issues/1#issue-2454538876" width="700px" />
+</div>
